@@ -1,4 +1,4 @@
-## Vii Userbot
+## Bluu Userbot
 ```
 apt update && apt upgrade -y
 ```
