@@ -3,10 +3,10 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://github.com/Buyer11/ubotpremjojo
+git clone https://github.com/fcknghatezrill/BluuUserbot
 ```
 ```
-cd ubotpremjojo
+cd BluuUserbot
 ```
 ```
 apt install ffmpeg -y
@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 cp sample.env .env && nano .env
 ```
 ```
-screen -S ubotpremjojo
+screen -S BluuUserbot
 ```
 ```
 python3 -m PyroUbot
@@ -36,13 +36,13 @@ python3 -m PyroUbot
 ---------- Menghidupan jika ubot mati -------------
 ```
 ```
-cd ubotpremjojo
+cd BluuUserbot
 ```
 ```
 python3 -m venv venv && source venv/bin/activate
 ```
 ```
-screen -S ubotpremjojo
+screen -S BluuUserbot
 ```
 ```
 python3 -m PyroUbot
